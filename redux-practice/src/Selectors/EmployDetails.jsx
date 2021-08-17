@@ -1,0 +1,1 @@
+export const getEmpDetails=(state)=>this.state.empReducer.empData;
