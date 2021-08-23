@@ -9,4 +9,4 @@ arr1.forEach((element) => {
     
 });
 
-console.log(arr2);
+console.log(arr2);  
